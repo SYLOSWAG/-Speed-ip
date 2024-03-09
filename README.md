@@ -8,7 +8,8 @@ how to install this tools :
 
 sudo apt-get install tor pip3 install requests[socks] or just run autoTor it will install everything
 
-1: 
+1:git clone
+
 
 2 : cd Auto_Tor_IP_changer
 
