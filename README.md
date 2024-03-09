@@ -10,8 +10,9 @@ sudo apt-get install tor pip3 install requests[socks] or just run autoTor it wil
 
 1:git clone
 
+https://github.com/SYLOSWAG/-Speed-ip
 
-2 : cd Auto_Tor_IP_changer
+2 : cd Speed_Ip
 
 3 : python3 install.py
 
